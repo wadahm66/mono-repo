@@ -1,4 +1,4 @@
-# Turborepo kitchen sink starter
+# Turborepo Mono Repo starter
 
 This Turborepo starter is maintained by the Turborepo core team.
 

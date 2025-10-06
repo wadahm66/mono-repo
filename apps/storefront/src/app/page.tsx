@@ -3,7 +3,7 @@ import { Link } from "@repo/ui/link";
 import { CounterButton } from "@repo/ui/counter-button";
 
 export const metadata = {
-  title: "Store | Kitchen Sink",
+  title: "Store | Mono Repo",
 };
 
 export default function Store() {
@@ -13,7 +13,7 @@ export default function Store() {
     <div className="container">
       <h1 className="title">
         Store <br />
-        <span>Kitchen Sink</span>
+        <span>Mono Repo</span>
       </h1>
       <CounterButton />
       <p className="description">
